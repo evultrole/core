@@ -1,7 +1,7 @@
 #!/bin/bash
 SCRIPTPATH="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 
-ICU_MAJOR_VER=62
+ICU_MAJOR_VER=72
 ICU_MINOR_VER=1
 
 SHARED_LIB_VER=$ICU_MAJOR_VER.$ICU_MINOR_VER
